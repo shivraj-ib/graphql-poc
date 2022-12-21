@@ -1,0 +1,19 @@
+{
+    "name": "ib/graphqlpoc",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "IB\\": "code/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shivraj Singh",
+            "email": "shivraj.singh@infobeans.com"
+        }
+    ],
+    "require": {
+        "webonyx/graphql-php": "^14.11"
+    }
+}
